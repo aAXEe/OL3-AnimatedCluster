@@ -1,0 +1,19 @@
+{
+  "name": "ol3-animatedcluster",
+  "version": "1.0.0",
+  "description": "A cluster layer for OpenLayers 3 (OL3)  that animates clusters on zoom change and a select interaction that spread out cluster to allow feature selection  in it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aAXEe/OL3-AnimatedCluster.git"
+  },
+  "author": "Jean-Marc",
+  "license": "CECILL-B",
+  "bugs": {
+    "url": "https://github.com/aAXEe/OL3-AnimatedCluster/issues"
+  },
+  "homepage": "https://github.com/aAXEe/OL3-AnimatedCluster#readme"
+}
