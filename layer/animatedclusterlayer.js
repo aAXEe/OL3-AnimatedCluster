@@ -149,7 +149,7 @@ ol.layer.AnimatedCluster.prototype.animate = function(e)
 			var st = stylefn(c.f, resolution);
 			/* Preserve pixel ration on retina */
 			var geo = new ol.geom.Point(pt);
-			for (var k=0; s=st[k]; k++)
+			for (var k=0, s; s=st[k]; k++)
 			{	var imgs = s.getImage();
 				var sc
 				if (imgs)
